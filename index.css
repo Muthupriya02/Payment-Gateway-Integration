@@ -1,0 +1,39 @@
+/* Payment Gateway Integration style */
+h1{
+    color: black;
+    text-align: center;
+  }
+body{
+    background-color:lightblue;
+  }
+
+/* Self Introduction */
+#intro{
+    padding-left: 1050px;
+    padding-top:50px;
+  }
+
+/* For organizing intro at bottom-right */
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+ }
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+
+/* For highlighting particular text */
+mark {
+    background-color: rgb(0, 217, 255);
+    color: black;
+  }
+
+/* Navigation to home page */
+a{
+    padding-left:1150px;
+    text-decoration: none;
+  }
